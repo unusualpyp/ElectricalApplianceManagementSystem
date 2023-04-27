@@ -2,19 +2,12 @@ package test;
 
 import com.brain.controller.MangerController;
 import com.brain.domain.Factory;
-import com.brain.domain.User;
 import com.brain.domain.equiptment.Equipment;
-import com.brain.domain.task.MyTask;
 import com.brain.domain.task.ScheduledTask;
 import org.junit.Test;
 
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
 import java.util.*;
-import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.ScheduledFuture;
-import java.util.concurrent.ScheduledThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
+
 
 /**
  * ClassName: ViewTest
