@@ -1,0 +1,8 @@
+AirConditioner1:{超级强大空气供给&superStrongAirSupply,自我清洁&selfCleaning,静音模式&muteMode,工作模式&setWorkMode,设置温度&setTemperature}
+AirConditioner2:{超强加热&strongHeating,强制制冷&forcedCooling,健康灭菌&healthySterilization,工作模式&setWorkMode,设置温度&setTemperature}
+BeautifulFreshKeepingRefrigerator:{}
+Curtains1:{静音模式&muteMode}
+Curtains2:{遮阳布打开&sunshadeClothStart}
+HaierHalfRefrigerator:{静音模式&setMute,快速制冰&createIceCute,除霜&defrosting}
+Light1:{自动光亮和颜色调节&automaticColorAdjustment}
+Light2:{}
